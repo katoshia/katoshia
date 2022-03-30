@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Katoshia Grubb. 
 - 👀 I’m interested in research and development of multi platform software to benefit health sciences. 
-- 🌱 I’m currently learning about operating systems. I do have experience in C, C++, C#, Unity, Visual Studio, and Mars MIPS assemblies language. 
-- 💞️ I’m looking to collaborate on small indie games or to research software development on robotics. 
+- 🌱 I’m currently learning about collaborative project to implenet a GUI interface for ecological computational simulations baed on biodiversity. I do have experience in C, C++, C#, Unity, Visual Studio, and Mars MIPS assemblies language. 
+- 💞️ I’m looking to collaborate on small indie games or to research software development on robotics. I have an interest in electromagnetic robotics that is software led. 
 - 📫 I can be reached by email at katoshia@gmail.com
 
 <!---
