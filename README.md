@@ -1,8 +1,47 @@
 - 👋 Hi, I’m Katoshia Grubb. 
-- 👀 I’m interested in research and development of multi platform software to benefit health sciences. 
-- 🌱 I’m currently learning about collaborative project to implenet a GUI interface for ecological computational simulations baed on biodiversity. I do have experience in C, C++, C#, Unity, Visual Studio, and Mars MIPS assemblies language. 
-- 💞️ I’m looking to collaborate on small indie games or to research software development on robotics. I have an interest in electromagnetic robotics that is software led. 
-- 📫 I can be reached by email at katoshia@gmail.com
+- I enjoy creating games via the Unity engine. I am currently in the process of obtaining the Unity Certified Associate: Game Development certificate and researching projects in Unreal5. 
+
+School Courses:
+- Portfolio classes
+- Data Modeling
+- Programming Foundations
+- Debugging
+- Various core speciic courses
+
+Languages:
+- C#
+- C++
+- Python
+- Java
+- MIPS
+- SQL
+
+School Projects:
+-  CDMetaPOP - School - GUI interface - QT Designer - Collaborative
+-  ToHelheim - Capstone - Unity and GitHub - Collaborative
+-  Game of Life - First portolio project - Winforms and Visual Studio
+-  Saiph - Debugging project - Visual Studio
+-  The Quest - School - Text based story game via Unity and GitHub - Collaborative
+
+Current Personal Projects:
+- Platformer 2D - Unity - TBD ship date
+- HodgePodge - various game mechanics
+
+Continued Learning
+- Saving to obtain Unity Certified Associate: Game Developer Certificate
+- Research AR/VR development via Unity
+- Plan to create 2 project via Unreal5 Engine by End of Year.
+
+Hobbies:
+- Board games (local board game lounge is huge hit in my family.)
+- Video games (Excited for Tears of the Kingdom and Hogwarts Legacy releases.)
+- Music - currently learning piano because my singing deafens.
+- Family - Anime nights and family movie trips are big. (board games too.)
+- Outdoorsy activities- Gotta keep that Vitamin D up.
+
+
+- 📫 Email: katoshia@gmail.com
+- Phone:(573)225-5628
 
 <!---
 katoshia/katoshia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
