@@ -18,8 +18,8 @@ Languages:
 
 School Projects:
 -  CDMetaPOP - School - GUI interface - QT Designer - Collaborative
--  ToHelheim - Capstone - Unity and GitHub - Collaborative
--  Game of Life - First portolio project - Winforms and Visual Studio
+-  ToHelheim - Capstone - Unity and GitHub - Collaborative - located on seperate github account/school github account - in process of moving over.
+-  Game of Life - First portolio project - Winforms and Visual Studio - located on seperate github account/school github account - in process of moving over.
 -  Saiph - Debugging project - Visual Studio
 -  The Quest - School - Text based story game via Unity and GitHub - Collaborative
 
@@ -39,7 +39,7 @@ Hobbies:
 - Family - Anime nights and family movie trips are big. (board games too.)
 - Outdoorsy activities- Gotta keep that Vitamin D up.
 
-
+Contact:
 - 📫 Email: katoshia@gmail.com
 - Phone:(573)225-5628
 
