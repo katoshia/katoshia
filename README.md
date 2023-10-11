@@ -24,8 +24,8 @@ School Projects:
 -  The Quest - School - Text based story game via Unity and GitHub - Collaborative
 
 Current Personal Projects:
-- Platformer 2D - Unity - TBD ship date
-- HodgePodge - various game mechanics
+- Hide N' Seek - Unity Maze game - developing project.
+- Poison Bites - Unity Platformer - developing project.
 
 Continued Learning
 - Saving to obtain Unity Certified Associate: Game Developer Certificate
