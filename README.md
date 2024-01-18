@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Katoshia Grubb. 
-- I enjoy creating games via the Unity engine. I'm honing skills within Unity 2D and am expanding to 3d vector math, asset creation and manipulation, and understaing the foundational procedures of a game engine. A couple current self driven projects I'm working on are a Chunk processing game similar to MineCraft that utilizeds genrative landscape to create a world for the user. The other is a "hodge podge" of sorts within Unity 2D to better understand game mechanics and how to implement them in various ways. Example, camera manipulation - moving platfors and puzzle set up. 
+- I enjoy creating games via the Unity engine. I'm honing skills within Unity 2D and am expanding to 3d vector math, asset creation and manipulation, and understaing the foundational procedures of a game engine. A couple current self driven projects I'm working on are a Chunk processing game similar to MineCraft that utilizes genrative landscape to create a world for the user. The other is a "hodge podge" of sorts within Unity 2D to better understand game mechanics and how to implement them in various ways. Example, camera manipulation - moving platforms and puzzle set up. 
 
 School Courses:
 - Portfolio classes
